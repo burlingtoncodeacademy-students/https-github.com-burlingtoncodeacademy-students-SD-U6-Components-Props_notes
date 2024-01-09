@@ -28,7 +28,8 @@ This lesson starts right at the `npx create-react-app .` point.
     - `Parent-Child Tree.png`
   - src
     - components
-      - **Will create files here**
+      - **employeeinfo**
+        - `EmployeeInfo.jsx` (Will build here)
     - App.jsx (updated from App.js)
 
 ## Resources
